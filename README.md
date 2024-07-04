@@ -1,16 +1,7 @@
-# E-Commerce-Website-Using-Python
-
-## Get In Touch
-Have any problem? Don't hesitate to connect... <br>
-(i) Facebook: https://www.facebook.com/mohsingram <br>
-(ii) Youtube: https://www.youtube.com/mohsingram <br>
-
-## Web View
-Go to this link to view website <br>
-https://menshut.pythonanywhere.com
+# E-Commerce-Website
 
 ## Summary
-Hello friends, This is my first full e-commerce project with Python-Flask. This is free. Anybody can use and moderate this project.
+Hello friends, This is my first full e-commerce project with Python-Flask.
 
 ## Platform Used
 ### Front-End
